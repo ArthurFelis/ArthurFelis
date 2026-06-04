@@ -3,5 +3,5 @@
 
   <br>
 
-  <img src="https://wallpaperaccess.com/full/4910984.gif" width="600" alt="Banner do Arthur">
+  <img src="https://media.tenor.com/CgGUXc-LDc4AAAAM/hacker-pc.gif" width="600" alt="Banner do Arthur">
 </div>
